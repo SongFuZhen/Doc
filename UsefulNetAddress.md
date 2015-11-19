@@ -8,4 +8,6 @@ https://www.dashingd3js.com/table-of-contents  Dashing D3.js D3 Tutorial Table o
 
 2.http://www.uimaker.com/  UI 制造者  		界面  前端设计
 
+3.http://hao.shejidaren.com/    设计导航	web/ui 网站设计学习
+
 //Here is the Note
