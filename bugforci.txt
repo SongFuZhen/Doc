@@ -2,7 +2,14 @@
 bug：每次点击全屏显示的时候，图表会出现变形。
 fix：设置全屏显示的遮罩层，使之不全屏展示，留下部分空隙，防止重新计算。
 
-
+2、App Center 显示不全
+bug：在面板上上信息显示不全。
+fix：将字体大小修改一下。
+在reparts/_current-status.html中  添加 style属性 font-size=“0.8em”  和“0.9em”
+在dhtmlx.css中添加
+.dhx_dataview_item .dv-body .right p{
+padding:0;
+}
 
 
 
